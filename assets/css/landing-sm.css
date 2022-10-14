@@ -1,22 +1,29 @@
 /* index.html */
+/* small screen */
 
 .navbar {
-    padding-left:80px;
-    background: white;
+    background-color: #49A9A5!important; 
     padding: 0;
 }
 
+/*  .bg-light {
+    background-color: #49A9A5!important; 
+}  */
+
 .navbar-brand {
     color:white;
-    background: #49A9A5;
+    background:#49a9a5;
     font-size: 36px;
+    margin:0;
     font-weight: bold;
-    margin-left: 80px;
     padding-left: 16px;
     padding-right: 16px; 
     font-family: Times, "Times New Roman", serif;
 }
-
+.navbar-toggler {
+    border=1px;
+    border-color: black;
+}
 .nav-link{
     color:black;
     font-size:20px;
@@ -42,8 +49,7 @@
 } 
 
  .col-md-6 {
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin: 0;
     padding: 0;
 } 
 
