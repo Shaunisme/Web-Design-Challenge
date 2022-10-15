@@ -71,3 +71,8 @@ h2,h3{
     border:0;
     margin-left:10px
 }
+
+.border {
+    border-color:#49A9A5!important;
+    border-width:3px!important;
+}
