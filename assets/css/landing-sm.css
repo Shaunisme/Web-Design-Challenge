@@ -33,6 +33,15 @@
     background-color: #EDEDED;
 }
 
+.col-md-12 {
+    background-color: white;
+    margin-top:6%;
+    margin-bottom: 0;
+} 
+.table {
+    margin-top:3%;
+}
+
 .col-md-8 {
     background-color: white;
     margin-left:1%;
