@@ -48,16 +48,21 @@
     margin-bottom: 0;
 } 
 
- .col-md-6 {
+.col-md-6 {
+    margin-bottom: 40px;
+}
+}
+/*  .col-md-6 {
     margin: 0;
     padding: 0;
 } 
-
+ */
 h2,h3{
     color:#49A9A5;
     font-family: Times, "Times New Roman", serif;
     font-weight: bold;
     margin-top:30px;
+    margin-box:10px;
 }
 
 .img-thumbnail {
