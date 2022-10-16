@@ -29,7 +29,8 @@
 .col-md-12 {
     background-color: white!important;
     margin-top:6%;
-    margin-bottom: 0;
+    margin-bottom: 6%;
+    padding-bottom: 3%;
 } 
 
 .table {
@@ -74,4 +75,10 @@ h2,h3{
 .border {
     border-color:#49A9A5!important;
     border-width:3px!important;
+}
+
+.img-sidebar {
+    width:90%;
+    height:132%;
+/*     object-fit:cover; */
 }
