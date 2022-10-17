@@ -1,4 +1,4 @@
-index,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
 0,port alfred,-33.5864065,26.8851448,17.37,96,100,6.81,Eastern Cape,1665964812
 1,villa carlos paz,-31.4207828,-64.4992141,18.14,60,14,3.58,Cordoba,1665964814
 2,nikolskoye,55.1981604,166.0015368,4.87,52,29,4.32,Kamchatka Krai,1665964816
